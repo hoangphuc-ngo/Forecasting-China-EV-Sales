@@ -189,7 +189,7 @@ The December 2024 peak reflects year-end promotions and fleet procurement; the F
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/banana17v-netizen/Forecasting-China-EV-Sales.git
+git clone https://github.com/hoangphuc-ngo/Forecasting-China-EV-Sales.git
 cd Forecasting-China-EV-Sales
 
 # 2. (Recommended) Create a virtual environment
